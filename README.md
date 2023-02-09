@@ -1,7 +1,6 @@
 ## MusicDatabaseApp
 
-![image](https://user-images.githubusercontent.com/28009047/217771191-000163b5-4502-404e-9c96-b39907102453.png)
-
+![image](https://user-images.githubusercontent.com/28009047/217772536-f8218828-3c5d-4900-b94d-2bd11341b813.png)
 
 This application allows you to undertake a number of tasks in creation and curation of a local music library database in Windows.
 The features are:
