@@ -206,7 +206,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnSave)
         Me.Controls.Add(Me.btnLoad)
         Me.Name = "Form1"
-        Me.Text = "Alex's Music Database Application"
+        Me.Text = "Music Database Application"
         CType(Me.dgvLoadedDb, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
