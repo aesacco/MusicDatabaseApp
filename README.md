@@ -1,5 +1,8 @@
 ## MusicDatabaseApp
 
+![image](https://user-images.githubusercontent.com/28009047/217771191-000163b5-4502-404e-9c96-b39907102453.png)
+
+
 This application allows you to undertake a number of tasks in creation and curation of a local music library database in Windows.
 The features are:
 
@@ -9,4 +12,4 @@ The features are:
 4. View your updated database instantly after saving new entries
 5. Select and delete a record from the interactive database table
 
-An .exe file is available in the codebase for quick testing of the application. 
+
